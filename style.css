@@ -1,0 +1,24 @@
+/* styles moved from website.html */
+body {
+    background-color: rgb(60, 31, 221);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    text-align: center;
+}
+h1 {
+    color: rgb(102, 94, 219);
+    text-align: left;
+}
+button {
+    background-color: rgb(102, 94, 219);
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 10px;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
